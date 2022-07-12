@@ -1,7 +1,7 @@
 function getPin() {
-    const pin=Math.round(Math.random()*10000);
+    const pin=Math.round(Math.random()*100000);
     const pinString=pin+'';
-    if(pinString.length==4){
+    if(pinString.length==5){
         return pin;
     }
     else{

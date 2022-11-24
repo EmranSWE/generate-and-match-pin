@@ -50,10 +50,8 @@ mdemran.swe@gmail.com
 
 ## Screenshots
 #### Desktop / Laptop
-![App Screenshot](https://i.ibb.co/QkDkTfR/screencapture-emranswe-github-io-generate-and-match-pin-2022-11-24-21-01-13.png)
+![App Screenshot](https://i.ibb.co/KKFCmvT/Screenshot.png)
 
-#### Mobile Device
-![App Screenshot](https://i.ibb.co/HPfvzR9/screencapture-emranswe-github-io-generate-and-match-pin-2022-11-24-21-07-51.png)
 
 
 ## Contributing
